@@ -26,7 +26,7 @@ Every hardware optimization, CPU/GPU clock cap, task scheduler limit, and therma
 * **Rotating Scalloped Cookie Geometry**: Custom hardware-accelerated Canvas shapes with smooth rotation and spring physics (`dampingRatio = 0.58f`, `Spring.StiffnessMedium`).
 * **Oklab Perceptual Monet Palette Sheet**: Tap the top-right **Palette** button to switch between **6 Monet seed colors** (*Volt Lime*, *Hyper Cyan*, *Solar Amber*, *Coral Pulse*, *Violet Core*, *Rose Quartz*) and **Auto / Dark / Light** modes.
 * **4-Tab Floating Glassmorphic Navigation Bar**:
-  1. **Dashboard**: Hero Power Status card, 3-way Active Profile morphing selector, 8-Core live CPU frequency bars, Thermal & Capacity bento cards, and recent Applied Activity timeline.
+  1. **Dashboard**: Hero Power Status card, 3-way Active Profile morphing selector, 7-Core live CPU frequency bars, Thermal & Capacity bento cards, and recent Applied Activity timeline.
   2. **Tweaks**: Profile-aware granular toggles for **Powersave**, **HyperOS Power Saver**, **Balance**, and **Performance** (*Lite / Extreme / Ultra*), plus the **Background Exception List**.
   3. **HyperOS**: Dedicated **HyperOS Hardware Tuning** tab with **Profile Templates** (*Powersave*, *Balance · Screen-Off Saver*, *Performance*), profile-sorted hardware controls, live RAM/thermal service toggles, and a **Multi-Select App Freezer** synced with the HyperOS Battery Saver exception list.
   4. **Console**: Real-time root execution log terminal with category filters (`ALL`, `TWEAK`, `PROFILE`, `REVERT`, `ERROR`).
